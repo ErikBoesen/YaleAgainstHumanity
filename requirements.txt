@@ -1,0 +1,6 @@
+Flask
+Flask-SocketIO
+requests
+eventlet
+gunicorn
+pyopenssl==19.1.0
